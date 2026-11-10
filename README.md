@@ -1,6 +1,6 @@
 # Predicting Sales Performance of Steam Games (MSc Data Science Dissertation)
 
-**Institution:** Coventry University, United Kingdom (MSc in Data Science)  
+**Institution:** Coventry University, United Kingdom — MSc in Data Science (1/2024 – 3/2025)  
 **Author:** Vinay Kumar Chinthamalla
 
 ---
